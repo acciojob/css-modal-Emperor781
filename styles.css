@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+#modal{
+	display: none;
+	width: 60%;
+	
+}
+.modal-header{
+	background-color: green;
+	color: white;
+	width: 100%;
+}
+.modal-body{
+	display: flex;
+	justify-content: space-between;
+}
+.close-modal{
+	height: 20px ;
+	margin-top: 15px;
+}
+.outer{
+	/* background-color: black; */
+	width: 100vw;
+	height: 100vh;
+}
