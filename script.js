@@ -6,6 +6,7 @@ let body=document.querySelector('.outer');
 let flag=false;
 btn.addEventListener('click',()=>{
 	modal.style.display='inline'
+	btn.style.display='none'
 	flag=true
 	
 	
