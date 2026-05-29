@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let modal=document.querySelector('#modal')
+let modal=document.querySelector('.modal')
 let btn=document.querySelector('#openModal');
 let body=document.querySelector('.outer');
 
