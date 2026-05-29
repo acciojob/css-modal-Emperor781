@@ -23,7 +23,7 @@ body.addEventListener('click', (e)=>{
 
 function down() {
 	modal.style.display='none'
-	btn.style.display='inline'
+	btn.style.display='none'
 	
 	
 }
