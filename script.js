@@ -15,12 +15,16 @@ body.addEventListener('click', (e)=>{
 	// e.preventDefault()
 	if(flag){
 	modal.style.display='none'
+	btn.style.display='inline'
+		
 		
 	}
 })
 
 function down() {
 	modal.style.display='none'
+	btn.style.display='inline'
+	
 	
 }
 
